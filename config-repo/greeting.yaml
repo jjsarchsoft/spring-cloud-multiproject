@@ -1,2 +1,8 @@
 server:
   port: 9090
+greeting: Hello
+greetings:
+  EN-EN: Hello
+  ES-ES: Hola
+  DE-DE: Hallo
+  IT-IT: Ciao
